@@ -1,0 +1,15 @@
+.cabecalho
+{
+    background-color:red;
+}
+
+.corpo
+{
+    background-color: aqua;
+}
+
+div
+{
+    background-color: blue;
+    margin-top:100xp;
+    border: 2xp solid black;
